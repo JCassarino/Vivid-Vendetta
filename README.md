@@ -1,4 +1,4 @@
-# Vivid Vendetta ⚔️✨
+# Vivid Vendetta
 
 Vivid Vendetta is a 2D action roguelike set in a world where a technologically advanced society has achieved a new golden age by fusing newly discovered magic with futuristic tech.
 
