@@ -13,13 +13,14 @@ At its core, Vivid Vendetta combines fast-paced **platforming** with dynamic **c
 
 ## 🚧 Current Stage: Early Development
 
-![Player Movement Demo](DemoGifs/PlatformingDemo.gif)
-
-![Placeholder Weapon Demo](demogifs/ShootingDemo.gif)
-
 This project is currently in the early stages of development. The current showcase includes:
 * Basic player movement: walking, running, jumping.
 * Core platforming mechanics on simple floor tiles.
 * Placeholder weapon and shooting functionality.
+
+![Player Movement Demo](DemoGifs/PlatformingDemo.gif)
+
+![Placeholder Weapon Demo](DemoGifs/ShootingDemo.gif)
+
 
 Stay tuned for more updates as development progresses!
