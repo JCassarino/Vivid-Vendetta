@@ -1,0 +1,3 @@
+repository "VVTest1 2024-11-23_17-19-33/VVTest1@2475645656025@cloud"
+  path "/"
+    smartbranch "/main"
