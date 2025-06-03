@@ -6,7 +6,7 @@ Vivid Vendetta is a 2D action roguelike set in a world where a technologically a
 
 At its core, Vivid Vendetta combines fast-paced **platforming** with dynamic **combat**. Players will navigate challenging environments and harness the power of elemental crystals. These crystals can be infused into various weapons and tools discovered throughout each run, allowing for diverse and powerful character builds with exciting synergies.
 
-## 🛠Tech Stack
+## Tech Stack
 
 * **Engine:** Unity
 * **Language:** C#
